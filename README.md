@@ -25,7 +25,7 @@ Groups of people use SplitMate to:
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourorg/splitmate.git
+git clone https://github.com/ankushsharma-arch/SplitMate.git
 cd splitmate
 ```
 
